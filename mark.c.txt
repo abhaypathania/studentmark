@@ -1,0 +1,20 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+
+{
+
+float ca_1,ca_2,ca_3;
+
+clrscr();
+
+printf("enter the marks of ca_1,ca_2 and ca_3:");
+
+scanf("%f %f %f",&ca_1,&ca_2,&ca_3);
+
+
+getch();
+
+}
+
+
